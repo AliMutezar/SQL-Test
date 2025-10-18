@@ -9,6 +9,6 @@ If you are a reviewer, please follow these steps to verify the answers:
 ```
 - Git
 - MySQL 8.4.3 or later
-- SQL Database Management Tool (e.g., MySQL Workbench, DBeaver, phpMyAdmin, Navicat, pgAdmin or your prefreed DBMS)
+- SQL Database Management Tool (e.g., MySQL Workbench, DBeaver, phpMyAdmin, Navicat, pgAdmin or your preferred DBMS)
 
 ```
